@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 About Me:
+
 
 I am a Computer Science undergraduate from AKTU University focused on building practical, production-oriented web applications with an emphasis on backend reliability, scalability, and real-world usability. I enjoy working across the full stack while maintaining a strong inclination toward backend engineering, API design, and system architecture.
 
