@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am a Computer Science undergraduate from AKTU University with a strong interest in building practical, production-oriented web applications. My primary focus is on backend reliability, scalable system design, and creating applications that solve real-world problems rather than just academic prototypes.<br><br>I have hands-on experience with technologies such as React, Node.js, Express, MongoDB, Python, SQL, and REST API development. I also work with modern deployment platforms, version control workflows, and AI integrations where relevant. Alongside full-stack development, I actively explore DevOps concepts, system architecture, and performance optimization to strengthen my engineering foundation.<br><br>I continuously learn by building projects, experimenting with new technologies, and improving problem-solving skills through real implementation. My goal is to grow into a well-rounded software engineer capable of designing, developing, and deploying reliable software systems.
+# 💫 About Me:
+
+I am a Computer Science undergraduate from AKTU University focused on building practical, production-oriented web applications with an emphasis on backend reliability, scalability, and real-world usability. I enjoy working across the full stack while maintaining a strong inclination toward backend engineering, API design, and system architecture.
+
+I have hands-on experience with technologies such as React, Node.js, Express, MongoDB, Python, SQL, REST APIs, and modern deployment platforms. I continuously strengthen my skills through real implementation, project-based learning, and exploration of DevOps practices, performance optimization, and AI integrations where meaningful.
+
+I actively showcase my work, projects, and technical journey on my portfolio:
+👉 **[https://vaibhavup.netlify.app/](https://vaibhavup.netlify.app/)**
+
+My goal is to grow into a well-rounded software engineer capable of designing, building, and deploying reliable software systems that solve real problems.
+
 
 
 ## 🌐 Socials:
