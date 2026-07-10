@@ -46,7 +46,7 @@ const vaibhavUpadhyay = {
 
 ### 🔹 CRM Platform with AI Automation
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Automated_CRM__Pannel&theme=dark&border_color=6b7280&title_color=6b7280" alt="CRM Platform with AI Automation"/>
+
 
 A CRM that pulls leads from Google Ads, Meta Ads, LinkedIn Ads, and WhatsApp Business API webhooks into a shared MongoDB pipeline, with Gemini API-generated lead summaries and follow-up suggestions.
 
@@ -65,7 +65,7 @@ A CRM that pulls leads from Google Ads, Meta Ads, LinkedIn Ads, and WhatsApp Bus
 
 ### 🔹 Human-in-the-Loop Wildlife Classification Pipeline
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Human-in-the-Loop-Wildlife-Classification-Pipeline&theme=dark&border_color=6b7280&title_color=6b7280" alt="Human-in-the-Loop Wildlife Classification Pipeline"/>
+
 
 A ResNet-101 model trained in PyTorch to classify camera-trap species images with heavily imbalanced classes (using OLTR), with a confidence-threshold review loop and automated retraining via Docker and GitHub Actions.
 
@@ -108,8 +108,6 @@ A ResNet-101 model trained in PyTorch to classify camera-trap species images wit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavUpadhyay16&show_icons=true&theme=dark&border_color=6b7280&title_color=6b7280&text_color=ffffff&icon_color=6b7280" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUpadhyay16&layout=compact&theme=dark&border_color=6b7280&title_color=6b7280&text_color=ffffff" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=VaibhavUpadhyay16&theme=dark&border=6b7280&ring=6b7280&fire=6b7280" alt="GitHub Streak"/>
 
