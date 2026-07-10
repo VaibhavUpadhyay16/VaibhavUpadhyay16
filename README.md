@@ -115,13 +115,7 @@ A ResNet-101 model trained in PyTorch to classify camera-trap species images wit
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VaibhavUpadhyay16&theme=dark&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
-</div>
-
-<br/>
 
 ## 📈 Contribution Activity
 
