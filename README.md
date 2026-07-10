@@ -1,34 +1,154 @@
-# 💫 About Me:
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Vaibhav%20Upadhyay&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-I am a Computer Science undergraduate from AKTU University focused on building practical, production-oriented web applications with an emphasis on backend reliability, scalability, and real-world usability. I enjoy working across the full stack while maintaining a strong inclination toward backend engineering, API design, and system architecture.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+AI-powered+CRM+Automation;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</a>
 
-I have hands-on experience with technologies such as React, Node.js, Express, MongoDB, Python, SQL, REST APIs, and modern deployment platforms. I continuously strengthen my skills through real implementation, project-based learning, and exploration of DevOps practices, performance optimization, and AI integrations where meaningful.
+<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black" alt="Open to Work"/>
 
-I actively showcase my work, projects, and technical journey on my portfolio:
-👉 **[https://vaibhavup.netlify.app/](https://vaibhavup.netlify.app/)**
+<img src="https://komarev.com/ghpvc/?username=VaibhavUpadhyay16&color=7dd3fc&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/VaibhavUpadhyay16?label=Followers&style=flat-square&color=7dd3fc" alt="Followers"/>
 
-My goal is to grow into a well-rounded software engineer capable of designing, building, and deploying reliable software systems that solve real problems.
+</div>
 
+<br/>
 
+## 🧑‍💻 Who I Am
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-upadhyay-78436b221) 
+```typescript
+const vaibhavUpadhyay = {
+  title: "Full Stack Developer",
+  stack: {
+    languages: ["JavaScript (ES6+)", "Python", "Java", "SQL"],
+    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "REST APIs", "JWT", "BullMQ"],
+    cloud: ["AWS", "Azure", "Docker", "GitHub Actions"],
+    aiAndDb: ["Google Gemini API", "MongoDB", "MySQL", "Redis"],
+  },
+  launchedProjects: [
+    "CRM Platform with AI Automation",
+    "Human-in-the-Loop Wildlife Classification Pipeline",
+  ],
+  certifications: [
+    "Data Analytics & Visualization Job Simulation – Accenture",
+    "Data Analyst 101 – Microsoft",
+  ],
+  status: "Building AI-powered tools & shipping full stack apps 🚀",
+  openTo: "New full-time opportunities",
+};
+```
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VaibhavUpadhyay16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VaibhavUpadhyay16&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUpadhyay16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🚀 Featured Projects
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VaibhavUpadhyay16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔹 CRM Platform with AI Automation
 
----
-[![](https://visitcount.itsvg.in/api?id=VaibhavUpadhyay16&icon=2&color=1)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Automated_CRM__Pannel&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="CRM Platform with AI Automation"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+A CRM that pulls leads from Google Ads, Meta Ads, LinkedIn Ads, and WhatsApp Business API webhooks into a shared MongoDB pipeline, with Gemini API-generated lead summaries and follow-up suggestions.
+
+| Layer | Technology |
+|---|---|
+| Frontend | React.js |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Queue / Cache | Redis, BullMQ |
+| AI | Google Gemini API |
+| Auth | JWT |
+
+🔗 [Code](https://github.com/VaibhavUpadhyay16/Automated_CRM__Pannel)
+
+<br/>
+
+### 🔹 Human-in-the-Loop Wildlife Classification Pipeline
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Human-in-the-Loop-Wildlife-Classification-Pipeline&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Human-in-the-Loop Wildlife Classification Pipeline"/>
+
+A ResNet-101 model trained in PyTorch to classify camera-trap species images with heavily imbalanced classes (using OLTR), with a confidence-threshold review loop and automated retraining via Docker and GitHub Actions.
+
+| Layer | Technology |
+|---|---|
+| ML Framework | PyTorch |
+| Model | ResNet-101 (OLTR) |
+| Automation | Docker, GitHub Actions |
+| Language | Python |
+
+🔗 [Code](https://github.com/VaibhavUpadhyay16/Human-in-the-Loop-Wildlife-Classification-Pipeline)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,java,mysql" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="Frontend"/>
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis" alt="Backend & Infra"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions" alt="Cloud & DevOps"/>
+
+**AI & Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb" alt="AI & Databases"/> &nbsp; <img src="https://img.shields.io/badge/Gemini%20API-7dd3fc?style=for-the-badge&logo=googlegemini&logoColor=black" alt="Gemini API"/>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavUpadhyay16&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUpadhyay16&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com?user=VaibhavUpadhyay16&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VaibhavUpadhyay16&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+## 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavUpadhyay16&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/vaibhav-upadhyay-78436b221/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+</a>
+<a href="mailto:Vaibhavupadhyay116@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+</a>
+<a href="https://vaibhavup.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
