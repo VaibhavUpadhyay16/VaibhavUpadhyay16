@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Vaibhav%20Upadhyay&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4b4b4b&height=200&section=header&text=Vaibhav%20Upadhyay&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+AI-powered+CRM+Automation;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6b7280&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+AI-powered+CRM+Automation;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-6b7280?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work"/>
 
-<img src="https://komarev.com/ghpvc/?username=VaibhavUpadhyay16&color=7dd3fc&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/VaibhavUpadhyay16?label=Followers&style=flat-square&color=7dd3fc" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=VaibhavUpadhyay16&color=6b7280&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/VaibhavUpadhyay16?label=Followers&style=flat-square&color=6b7280" alt="Followers"/>
 
 </div>
 
@@ -46,7 +46,7 @@ const vaibhavUpadhyay = {
 
 ### 🔹 CRM Platform with AI Automation
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Automated_CRM__Pannel&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="CRM Platform with AI Automation"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Automated_CRM__Pannel&theme=dark&border_color=6b7280&title_color=6b7280" alt="CRM Platform with AI Automation"/>
 
 A CRM that pulls leads from Google Ads, Meta Ads, LinkedIn Ads, and WhatsApp Business API webhooks into a shared MongoDB pipeline, with Gemini API-generated lead summaries and follow-up suggestions.
 
@@ -65,7 +65,7 @@ A CRM that pulls leads from Google Ads, Meta Ads, LinkedIn Ads, and WhatsApp Bus
 
 ### 🔹 Human-in-the-Loop Wildlife Classification Pipeline
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Human-in-the-Loop-Wildlife-Classification-Pipeline&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Human-in-the-Loop Wildlife Classification Pipeline"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=VaibhavUpadhyay16&repo=Human-in-the-Loop-Wildlife-Classification-Pipeline&theme=dark&border_color=6b7280&title_color=6b7280" alt="Human-in-the-Loop Wildlife Classification Pipeline"/>
 
 A ResNet-101 model trained in PyTorch to classify camera-trap species images with heavily imbalanced classes (using OLTR), with a confidence-threshold review loop and automated retraining via Docker and GitHub Actions.
 
@@ -100,7 +100,7 @@ A ResNet-101 model trained in PyTorch to classify camera-trap species images wit
 
 **AI & Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb" alt="AI & Databases"/> &nbsp; <img src="https://img.shields.io/badge/Gemini%20API-7dd3fc?style=for-the-badge&logo=googlegemini&logoColor=black" alt="Gemini API"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="AI & Databases"/> &nbsp; <img src="https://img.shields.io/badge/Gemini%20API-6b7280?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
 
 <br/>
 
@@ -108,10 +108,10 @@ A ResNet-101 model trained in PyTorch to classify camera-trap species images wit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavUpadhyay16&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&icon_color=7dd3fc" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUpadhyay16&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VaibhavUpadhyay16&show_icons=true&theme=dark&border_color=6b7280&title_color=6b7280&text_color=ffffff&icon_color=6b7280" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavUpadhyay16&layout=compact&theme=dark&border_color=6b7280&title_color=6b7280&text_color=ffffff" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=VaibhavUpadhyay16&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=VaibhavUpadhyay16&theme=dark&border=6b7280&ring=6b7280&fire=6b7280" alt="GitHub Streak"/>
 
 </div>
 
@@ -120,7 +120,7 @@ A ResNet-101 model trained in PyTorch to classify camera-trap species images wit
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VaibhavUpadhyay16&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VaibhavUpadhyay16&theme=dark&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -128,7 +128,7 @@ A ResNet-101 model trained in PyTorch to classify camera-trap species images wit
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavUpadhyay16&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavUpadhyay16&theme=dark&hide_border=true&color=6b7280&line=6b7280&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -138,17 +138,17 @@ A ResNet-101 model trained in PyTorch to classify camera-trap species images wit
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vaibhav-upadhyay-78436b221/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-6b7280?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:Vaibhavupadhyay116@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-6b7280?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://vaibhavup.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-6b7280?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4b4b4b&height=120&section=footer" width="100%"/>
